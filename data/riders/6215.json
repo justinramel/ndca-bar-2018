@@ -1,0 +1,641 @@
+{
+  "id": "6215",
+  "name": "Dean Madden",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Barnesbury CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17221",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To B Bayne)(90 Riders)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 9,
+        "date": "11 July 2018",
+        "club": "Barnesbury CC",
+        "position": "27",
+        "time": "0:22:41",
+        "standard": "00:26:32",
+        "onStandard": "-00:03:51",
+        "speed": "26.45 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 102,
+        "vbarPosition": 19,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17239",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 9,
+        "date": "22 July 2018",
+        "club": "Barnesbury CC",
+        "position": "35",
+        "time": "0:59:48",
+        "standard": "01:07:26",
+        "onStandard": "-00:07:38",
+        "speed": "25.08 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 90,
+    "averagePointsPerLongRace": 95.5,
+    "averagePointsPerRace": 95.5,
+    "remainingShortPoints": 139,
+    "remainingMediumPoints": 270,
+    "remainingLongPoints": 120,
+    "remainingPoints": 529,
+    "predictedFinalPoints": 191,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 101,
+      "medium": 90,
+      "long": 0,
+      "grand": 191
+    },
+    "tags": [],
+    "currentPosition": 139,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 136,
+        "id": "415",
+        "pointsDirection": 0,
+        "name": "Sam Dodd",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 64.33333333333333,
+        "predictedFinalPoints": 193,
+        "grandTotal": 193,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 58
+      },
+      {
+        "position": 137,
+        "id": "18680",
+        "pointsDirection": 0,
+        "name": "Matthew Sutcliffe",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 192,
+        "grandTotal": 192,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 138,
+        "id": "11089",
+        "pointsDirection": 0,
+        "name": "Daniel O'Callaghan",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 95.5,
+        "predictedFinalPoints": 191,
+        "grandTotal": 191,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 139,
+        "id": "6215",
+        "pointsDirection": 0,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 95.5,
+        "predictedFinalPoints": 191,
+        "grandTotal": 191,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 140,
+        "id": "80",
+        "pointsDirection": 0,
+        "name": "greg charlton",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 190,
+        "grandTotal": 190,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 99,
+        "tieBreakPoints": 99
+      },
+      {
+        "position": 141,
+        "id": "24505",
+        "pointsDirection": 0,
+        "name": "Frank Devlin",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 180,
+        "grandTotal": 180,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 142,
+        "id": "5885",
+        "pointsDirection": 0,
+        "name": "Richard Sill",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 88.5,
+        "predictedFinalPoints": 177,
+        "grandTotal": 177,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 83
+      }
+    ]
+  },
+  "vbar": {
+    "short": [
+      {
+        "eventId": "17221",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To B Bayne)(90 Riders)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 9,
+        "date": "11 July 2018",
+        "club": "Barnesbury CC",
+        "position": "27",
+        "time": "0:22:41",
+        "standard": "00:26:32",
+        "onStandard": "-00:03:51",
+        "speed": "26.45 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 102,
+        "vbarPosition": 19,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17239",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 9,
+        "date": "22 July 2018",
+        "club": "Barnesbury CC",
+        "position": "35",
+        "time": "0:59:48",
+        "standard": "01:07:26",
+        "onStandard": "-00:07:38",
+        "speed": "25.08 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 98,
+        "vbarPosition": 23,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 102,
+    "averagePointsPerMediumRace": 98,
+    "averagePointsPerLongRace": 100,
+    "averagePointsPerRace": 100,
+    "remainingShortPoints": 138,
+    "remainingMediumPoints": 262,
+    "remainingLongPoints": 120,
+    "remainingPoints": 520,
+    "predictedFinalPoints": 596,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 102,
+      "medium": 98,
+      "long": 0,
+      "grand": 200
+    },
+    "tags": [],
+    "currentPosition": 84,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 81,
+        "id": "8008",
+        "pointsDirection": 0,
+        "name": "Rachel Walmsley",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 202,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 82,
+        "id": "7050",
+        "pointsDirection": 0,
+        "name": "peter mcglynn",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 612,
+        "grandTotal": 201,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 83,
+        "id": "96",
+        "pointsDirection": 0,
+        "name": "Richard Exley",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 592,
+        "grandTotal": 201,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 84,
+        "id": "6215",
+        "pointsDirection": 0,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 100,
+        "predictedFinalPoints": 596,
+        "grandTotal": 200,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 85,
+        "id": "16334",
+        "pointsDirection": 0,
+        "name": "Danny wilcox",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 98,
+        "predictedFinalPoints": 588,
+        "grandTotal": 196,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 107
+      },
+      {
+        "position": 86,
+        "id": "7211",
+        "pointsDirection": 0,
+        "name": "Neil Harrison",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 577,
+        "grandTotal": 192,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 95
+      },
+      {
+        "position": 87,
+        "id": "19242",
+        "pointsDirection": 0,
+        "name": "Kevin Hopper",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 94.5,
+        "predictedFinalPoints": 554,
+        "grandTotal": 189,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17221",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To B Bayne)(90 Riders)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 9,
+      "date": "11 July 2018",
+      "club": "Barnesbury CC",
+      "position": "27",
+      "time": "0:22:41",
+      "standard": "00:26:32",
+      "onStandard": "-00:03:51",
+      "speed": "26.45 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 102,
+      "vbarPosition": 19,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17239",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 9,
+      "date": "22 July 2018",
+      "club": "Barnesbury CC",
+      "position": "35",
+      "time": "0:59:48",
+      "standard": "01:07:26",
+      "onStandard": "-00:07:38",
+      "speed": "25.08 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 98,
+      "vbarPosition": 23,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 164
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 101,
+        "medium": 0,
+        "long": 0,
+        "grand": 101
+      },
+      "position": 167
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 101,
+        "medium": 90,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 133
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 101,
+        "medium": 90,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 137
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 101,
+        "medium": 90,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 138
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 101,
+        "medium": 90,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 139
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 101,
+        "medium": 90,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 139
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 117
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 102,
+        "medium": 0,
+        "long": 0,
+        "grand": 102
+      },
+      "position": 119
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 102,
+        "medium": 98,
+        "long": 0,
+        "grand": 200
+      },
+      "position": 76
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 102,
+        "medium": 98,
+        "long": 0,
+        "grand": 200
+      },
+      "position": 79
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 102,
+        "medium": 98,
+        "long": 0,
+        "grand": 200
+      },
+      "position": 80
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 102,
+        "medium": 98,
+        "long": 0,
+        "grand": 200
+      },
+      "position": 84
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 102,
+        "medium": 98,
+        "long": 0,
+        "grand": 200
+      },
+      "position": 84
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "id": "23149",
+  "name": "Chris Stirling",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Kent Valley RC",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 345,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 342,
+        "id": "24395",
+        "pointsDirection": 0,
+        "name": "Andy Richardson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 343,
+        "id": "10556",
+        "pointsDirection": 0,
+        "name": "Niall Paterson",
+        "club": "Velo Club Cumbria",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 344,
+        "id": "23469",
+        "pointsDirection": 0,
+        "name": "Andrew Jackman",
+        "club": "Physiohaus Health and Performance",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 345,
+        "id": "23149",
+        "pointsDirection": 0,
+        "name": "Chris Stirling",
+        "club": "Kent Valley RC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 346,
+        "id": "2281",
+        "pointsDirection": 0,
+        "name": "David Cookson",
+        "club": "Preston CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 347,
+        "id": "3938",
+        "pointsDirection": 0,
+        "name": "Roy Flanagan",
+        "club": "Rossendale RC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 348,
+        "id": "3088",
+        "pointsDirection": 0,
+        "name": "Nicholas Stevenson",
+        "club": "Wearside Triathlon",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17211",
+      "raceCategory": "long",
+      "name": "Derwentside CC (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 10,
+      "date": "06 May 2018",
+      "club": "Kent Valley RC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ]
+}

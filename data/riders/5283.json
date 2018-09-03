@@ -1,0 +1,559 @@
+{
+  "id": "5283",
+  "name": "James O'reilly",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "Blaydon CC",
+        "position": "8",
+        "time": "0:38:36",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.76 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 118,
+        "rbarPosition": 3
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 113,
+    "averagePointsPerLongRace": 113,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 127,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 607,
+    "predictedFinalPoints": 113,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 113,
+      "medium": 0,
+      "long": 0,
+      "grand": 113
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 BAR"
+      }
+    ],
+    "currentPosition": 170,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 167,
+        "id": "6199",
+        "pointsDirection": 0,
+        "name": "Zeb Kyffin",
+        "club": "Ribble Pro Cycling",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 119,
+        "grandTotal": 119,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 119
+      },
+      {
+        "position": 168,
+        "id": "3648",
+        "pointsDirection": 0,
+        "name": "michael openshaw",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 118,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 169,
+        "id": "2445",
+        "pointsDirection": 0,
+        "name": "Anna Turvey",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 113,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 170,
+        "id": "5283",
+        "pointsDirection": 0,
+        "name": "James O'reilly",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 113,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 171,
+        "id": "21284",
+        "pointsDirection": 0,
+        "name": "lee cuthbertson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 112,
+        "grandTotal": 112,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 172,
+        "id": "1027",
+        "pointsDirection": 0,
+        "name": "Terry Wilkinson",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 109,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 173,
+        "id": "1710",
+        "pointsDirection": 0,
+        "name": "Tania Tucker",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 109,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 109,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "Blaydon CC",
+        "position": "8",
+        "time": "0:38:36",
+        "standard": "",
+        "onStandard": "",
+        "speed": "21.76 Mph",
+        "bar": 113,
+        "barPosition": 8,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 118,
+        "rbarPosition": 3
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 118,
+    "averagePointsPerMediumRace": 118,
+    "averagePointsPerLongRace": 118,
+    "averagePointsPerRace": 118,
+    "remainingShortPoints": 122,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 602,
+    "predictedFinalPoints": 708,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 118,
+      "medium": 0,
+      "long": 0,
+      "grand": 118
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 3rd RBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 RBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 RBAR"
+      }
+    ],
+    "currentPosition": 62,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "4064",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Mark Robertson",
+        "club": "Army Cycling Union",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 360
+      },
+      {
+        "position": 59,
+        "id": "1559",
+        "pointsDirection": 2,
+        "name": "Craig Berry",
+        "club": "GS Metro",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 60,
+        "id": "164",
+        "pointsDirection": 2,
+        "name": "Ben Osborne",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 61,
+        "id": "24818",
+        "pointsDirection": 2,
+        "name": "Ian Dick",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 62,
+        "id": "5283",
+        "pointsDirection": 2,
+        "name": "James O'reilly",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 63,
+        "id": "18225",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 9,
+        "name": "David Symes",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 117
+      },
+      {
+        "position": 64,
+        "id": "17179",
+        "pointsDirection": 2,
+        "name": "Paul Burke",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 65,
+        "id": "6444",
+        "pointsDirection": 2,
+        "name": "Mark Tully",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17222",
+      "raceCategory": "short",
+      "name": "Blaydon CC",
+      "course": "M14",
+      "distance": 14,
+      "fee": 9,
+      "date": "15 July 2018",
+      "club": "Blaydon CC",
+      "position": "8",
+      "time": "0:38:36",
+      "standard": "",
+      "onStandard": "",
+      "speed": "21.76 Mph",
+      "bar": 113,
+      "barPosition": 8,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 118,
+      "rbarPosition": 3
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 160
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 161
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 163
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 164
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 170
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 113,
+        "medium": 0,
+        "long": 0,
+        "grand": 113
+      },
+      "position": 170
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 57
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 58
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 59
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 59
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 60
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 118,
+        "medium": 0,
+        "long": 0,
+        "grand": 118
+      },
+      "position": 62
+    }
+  ]
+}

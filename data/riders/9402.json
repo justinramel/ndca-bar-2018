@@ -1,0 +1,804 @@
+{
+  "id": "9402",
+  "name": "ROY PATTINSON",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Breeze Bikes RT",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "17212",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 40,
+        "fee": 11,
+        "date": "13 May 2018",
+        "club": "Breeze Bikes RT",
+        "position": "49",
+        "time": "2:05:56",
+        "standard": "01:49:04",
+        "onStandard": "00:16:52",
+        "speed": "19.06 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 104,
+        "vbarPosition": 17,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 87,
+    "averagePointsPerMediumRace": 87,
+    "averagePointsPerLongRace": 87,
+    "averagePointsPerRace": 87,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 33,
+    "remainingPoints": 633,
+    "predictedFinalPoints": 87,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 87,
+      "grand": 87
+    },
+    "tags": [],
+    "currentPosition": 206,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 203,
+        "id": "1559",
+        "pointsDirection": 3,
+        "name": "Craig Berry",
+        "club": "GS Metro",
+        "averagePointsPerRace": 91,
+        "predictedFinalPoints": 91,
+        "grandTotal": 91,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 204,
+        "id": "7765",
+        "pointsDirection": 3,
+        "name": "darryl manning",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 91,
+        "predictedFinalPoints": 91,
+        "grandTotal": 91,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 205,
+        "id": "6306",
+        "pointsDirection": 3,
+        "name": "BRENDON JACKSON",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 89,
+        "predictedFinalPoints": 89,
+        "grandTotal": 89,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 206,
+        "id": "9402",
+        "pointsDirection": 3,
+        "name": "ROY PATTINSON",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 87,
+        "predictedFinalPoints": 87,
+        "grandTotal": 87,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 207,
+        "id": "8014",
+        "pointsDirection": 3,
+        "name": "Martin Bluck",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 87,
+        "predictedFinalPoints": 87,
+        "grandTotal": 87,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 208,
+        "id": "16746",
+        "pointsDirection": 3,
+        "name": "Steven Mulvey",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 86,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 209,
+        "id": "11708",
+        "pointsDirection": 3,
+        "name": "Howie Buckingham",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 86,
+        "predictedFinalPoints": 86,
+        "grandTotal": 86,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "17212",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 40,
+        "fee": 11,
+        "date": "13 May 2018",
+        "club": "Breeze Bikes RT",
+        "position": "49",
+        "time": "2:05:56",
+        "standard": "01:49:04",
+        "onStandard": "00:16:52",
+        "speed": "19.06 Mph",
+        "bar": 87,
+        "barPosition": 34,
+        "vbar": 104,
+        "vbarPosition": 17,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 104,
+    "averagePointsPerMediumRace": 104,
+    "averagePointsPerLongRace": 104,
+    "averagePointsPerRace": 104,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 16,
+    "remainingPoints": 616,
+    "predictedFinalPoints": 624,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 104,
+      "grand": 104
+    },
+    "tags": [],
+    "currentPosition": 114,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 111,
+        "id": "7765",
+        "pointsDirection": 2,
+        "name": "darryl manning",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 106,
+        "predictedFinalPoints": 636,
+        "grandTotal": 106,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 112,
+        "id": "1890",
+        "pointsDirection": 2,
+        "name": "Christian Roberts",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 105,
+        "predictedFinalPoints": 630,
+        "grandTotal": 105,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 105
+      },
+      {
+        "position": 113,
+        "id": "1559",
+        "pointsDirection": 2,
+        "name": "Craig Berry",
+        "club": "GS Metro",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 114,
+        "id": "9402",
+        "pointsDirection": 2,
+        "name": "ROY PATTINSON",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 115,
+        "id": "12616",
+        "pointsDirection": 2,
+        "name": "Michael Woodhouse",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 116,
+        "id": "25152",
+        "pointsDirection": 2,
+        "name": "John Cantrill",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 104,
+        "predictedFinalPoints": 624,
+        "grandTotal": 104,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 117,
+        "id": "4720",
+        "pointsDirection": 2,
+        "name": "Ian Maddison",
+        "club": "Ryton Tri Club",
+        "averagePointsPerRace": 103,
+        "predictedFinalPoints": 618,
+        "grandTotal": 103,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 103
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17212",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 40,
+      "fee": 11,
+      "date": "13 May 2018",
+      "club": "Breeze Bikes RT",
+      "position": "49",
+      "time": "2:05:56",
+      "standard": "01:49:04",
+      "onStandard": "00:16:52",
+      "speed": "19.06 Mph",
+      "bar": 87,
+      "barPosition": 34,
+      "vbar": 104,
+      "vbarPosition": 17,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 127
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 134
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 142
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 149
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 153
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 161
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 169
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 181
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 185
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 190
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 193
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 196
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 196
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 197
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 197
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 203
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 87,
+        "grand": 87
+      },
+      "position": 206
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 63
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 68
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 74
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 78
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 80
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 88
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 91
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 98
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 102
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 105
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 107
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 107
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 108
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 108
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 109
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 112
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 104,
+        "grand": 104
+      },
+      "position": 114
+    }
+  ]
+}

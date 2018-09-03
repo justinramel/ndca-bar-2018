@@ -1,0 +1,693 @@
+{
+  "id": "8823",
+  "name": "James Hadfield",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Blaydon CC",
+  "inBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17242",
+        "raceCategory": "short",
+        "name": "Tyne & Wear Fire Service CC (Entries Close 02/05/18)",
+        "course": "M12",
+        "distance": 12.6,
+        "fee": 9,
+        "date": "12 May 2018",
+        "club": "Blaydon CC",
+        "position": "10",
+        "time": "0:29:15",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.85 Mph",
+        "bar": 112,
+        "barPosition": 9,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17243",
+        "raceCategory": "short",
+        "name": "Derwentside CC",
+        "course": "M107",
+        "distance": 9.9,
+        "fee": 9,
+        "date": "27 May 2018",
+        "club": "Blaydon CC",
+        "position": "10",
+        "time": "0:24:14",
+        "standard": "",
+        "onStandard": "",
+        "speed": "24.51 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17207",
+        "raceCategory": "medium",
+        "name": "North Tyneside Riders CC",
+        "course": "M27",
+        "distance": 27,
+        "fee": 9,
+        "date": "22 April 2018",
+        "club": "Blaydon CC",
+        "position": "13",
+        "time": "1:18:50",
+        "standard": "",
+        "onStandard": "",
+        "speed": "20.55 Mph",
+        "bar": 111,
+        "barPosition": 10,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 2,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 3,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 111.5,
+    "averagePointsPerMediumRace": 111,
+    "averagePointsPerLongRace": 111.33333333333333,
+    "averagePointsPerRace": 111.33333333333333,
+    "remainingShortPoints": 17,
+    "remainingMediumPoints": 249,
+    "remainingLongPoints": 120,
+    "remainingPoints": 386,
+    "predictedFinalPoints": 334,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 1,
+      "totalPoints": 111
+    },
+    "totals": {
+      "short": 223,
+      "medium": 111,
+      "long": 0,
+      "grand": 334
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "3 x Top 10 BAR"
+      },
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      },
+      {
+        "cssclass": "tag is-dark",
+        "text": "1 x DNF"
+      }
+    ],
+    "currentPosition": 90,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 87,
+        "id": "3216",
+        "pointsDirection": 0,
+        "name": "Clive Allan",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 94.75,
+        "predictedFinalPoints": 379,
+        "grandTotal": 379,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 88
+      },
+      {
+        "position": 88,
+        "id": "21338",
+        "pointsDirection": 0,
+        "name": "Helen Parkin",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 71.4,
+        "predictedFinalPoints": 357,
+        "grandTotal": 357,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 47,
+        "tieBreakPoints": 82
+      },
+      {
+        "position": 89,
+        "id": "9684",
+        "pointsDirection": 0,
+        "name": "darren williamson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 114.33333333333333,
+        "predictedFinalPoints": 343,
+        "grandTotal": 343,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 219,
+        "tieBreakPoints": 109
+      },
+      {
+        "position": 90,
+        "id": "8823",
+        "pointsDirection": 0,
+        "name": "James Hadfield",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 111.33333333333333,
+        "predictedFinalPoints": 334,
+        "grandTotal": 334,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 111
+      },
+      {
+        "position": 91,
+        "id": "10351",
+        "pointsDirection": 0,
+        "name": "Craig Haslam",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 109.66666666666667,
+        "predictedFinalPoints": 329,
+        "grandTotal": 329,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 108,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 92,
+        "id": "7993",
+        "pointsDirection": 0,
+        "name": "Simon Gibbs",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 108.66666666666667,
+        "predictedFinalPoints": 326,
+        "grandTotal": 326,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 93,
+        "id": "3693",
+        "pointsDirection": 0,
+        "name": "Ken Thursby",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 324,
+        "grandTotal": 324,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 100,
+        "tieBreakPoints": 101
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17210",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders CC",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 9,
+      "date": "14 April 2018",
+      "club": "Blaydon CC",
+      "position": "44",
+      "time": "0:22:38",
+      "standard": "",
+      "onStandard": "",
+      "speed": "26.51 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17207",
+      "raceCategory": "medium",
+      "name": "North Tyneside Riders CC",
+      "course": "M27",
+      "distance": 27,
+      "fee": 9,
+      "date": "22 April 2018",
+      "club": "Blaydon CC",
+      "position": "13",
+      "time": "1:18:50",
+      "standard": "",
+      "onStandard": "",
+      "speed": "20.55 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17209",
+      "raceCategory": "short",
+      "name": "Houghton CC",
+      "course": "M1010B",
+      "distance": 10,
+      "fee": 9,
+      "date": "29 April 2018",
+      "club": "Blaydon CC",
+      "position": "15",
+      "time": "0:23:16",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.79 Mph",
+      "bar": 108,
+      "barPosition": 13,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17242",
+      "raceCategory": "short",
+      "name": "Tyne & Wear Fire Service CC (Entries Close 02/05/18)",
+      "course": "M12",
+      "distance": 12.6,
+      "fee": 9,
+      "date": "12 May 2018",
+      "club": "Blaydon CC",
+      "position": "10",
+      "time": "0:29:15",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.85 Mph",
+      "bar": 112,
+      "barPosition": 9,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17243",
+      "raceCategory": "short",
+      "name": "Derwentside CC",
+      "course": "M107",
+      "distance": 9.9,
+      "fee": 9,
+      "date": "27 May 2018",
+      "club": "Blaydon CC",
+      "position": "10",
+      "time": "0:24:14",
+      "standard": "",
+      "onStandard": "",
+      "speed": "24.51 Mph",
+      "bar": 111,
+      "barPosition": 10,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17215",
+      "raceCategory": "short",
+      "name": "Alnwick CC",
+      "course": "M13",
+      "distance": 13,
+      "fee": 9,
+      "date": "02 June 2018",
+      "club": "Blaydon CC",
+      "position": "DNF",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17216",
+      "raceCategory": "medium",
+      "name": "Blaydon CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "03 June 2018",
+      "club": "Blaydon CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17210",
+      "date": "14 April 2018",
+      "name": "M102B",
+      "points": {
+        "short": 90,
+        "medium": 0,
+        "long": 0,
+        "grand": 90
+      },
+      "position": 32
+    },
+    {
+      "eventId": "17207",
+      "date": "22 April 2018",
+      "name": "M27",
+      "points": {
+        "short": 90,
+        "medium": 111,
+        "long": 0,
+        "grand": 201
+      },
+      "position": 7
+    },
+    {
+      "eventId": "17209",
+      "date": "29 April 2018",
+      "name": "M1010B",
+      "points": {
+        "short": 198,
+        "medium": 111,
+        "long": 0,
+        "grand": 309
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17211",
+      "date": "06 May 2018",
+      "name": "M40",
+      "points": {
+        "short": 198,
+        "medium": 111,
+        "long": 0,
+        "grand": 309
+      },
+      "position": 8
+    },
+    {
+      "eventId": "17242",
+      "date": "12 May 2018",
+      "name": "M12",
+      "points": {
+        "short": 220,
+        "medium": 111,
+        "long": 0,
+        "grand": 331
+      },
+      "position": 10
+    },
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 220,
+        "medium": 111,
+        "long": 0,
+        "grand": 331
+      },
+      "position": 14
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 220,
+        "medium": 111,
+        "long": 0,
+        "grand": 331
+      },
+      "position": 19
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 20
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 21
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 42
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 50
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 63
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 65
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 70
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 76
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 78
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 80
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 82
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 84
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 85
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 90
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 223,
+        "medium": 111,
+        "long": 0,
+        "grand": 334
+      },
+      "position": 90
+    }
+  ]
+}

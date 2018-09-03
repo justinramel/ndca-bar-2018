@@ -1,0 +1,1486 @@
+{
+  "id": "708",
+  "name": "Christopher Beaty",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "Allen Valley Velo",
+  "inBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "Allen Valley Velo",
+        "position": "30",
+        "time": "0:42:28",
+        "standard": "",
+        "onStandard": "",
+        "speed": "19.78 Mph",
+        "bar": 93,
+        "barPosition": 28,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 107,
+        "rbarPosition": 14
+      },
+      {
+        "eventId": "17221",
+        "raceCategory": "short",
+        "name": "Barnesbury CC (Cheques To B Bayne)(90 Riders)",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 9,
+        "date": "11 July 2018",
+        "club": "Allen Valley Velo",
+        "position": "39",
+        "time": "0:23:28",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.57 Mph",
+        "bar": 90,
+        "barPosition": 31,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17214",
+        "raceCategory": "medium",
+        "name": "Allen Valley Velo (Lakes & Lancs Spoco)(Entries Close 03/06/18)",
+        "course": "M24.8",
+        "distance": 24.8,
+        "fee": 9,
+        "date": "10 June 2018",
+        "club": "Allen Valley Velo",
+        "position": "25",
+        "time": "1:17:49",
+        "standard": "",
+        "onStandard": "",
+        "speed": "19.12 Mph",
+        "bar": 101,
+        "barPosition": 20,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 110,
+        "rbarPosition": 11
+      },
+      {
+        "eventId": "17220",
+        "raceCategory": "medium",
+        "name": "Gosforth Road Club (BBAR)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 9,
+        "date": "08 July 2018",
+        "club": "Allen Valley Velo",
+        "position": "28",
+        "time": "1:06:30",
+        "standard": "",
+        "onStandard": "",
+        "speed": "22.56 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 116,
+        "rbarPosition": 5
+      },
+      {
+        "eventId": "17216",
+        "raceCategory": "medium",
+        "name": "Blaydon CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "03 June 2018",
+        "club": "Allen Valley Velo",
+        "position": "50",
+        "time": "0:46:10",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.39 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9
+      }
+    ],
+    "long": [
+      {
+        "eventId": "17211",
+        "raceCategory": "long",
+        "name": "Derwentside CC (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 10,
+        "date": "06 May 2018",
+        "club": "Allen Valley Velo",
+        "position": "55",
+        "time": "2:11:22",
+        "standard": "",
+        "onStandard": "",
+        "speed": "18.27 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 91.5,
+    "averagePointsPerMediumRace": 92.66666666666667,
+    "averagePointsPerLongRace": 88,
+    "averagePointsPerRace": 91.5,
+    "remainingShortPoints": 57,
+    "remainingMediumPoints": 82,
+    "remainingLongPoints": 32,
+    "remainingPoints": 171,
+    "predictedFinalPoints": 549,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 135
+    },
+    "tieBreak": {
+      "raced": 2,
+      "totalPoints": 155
+    },
+    "totals": {
+      "short": 183,
+      "medium": 278,
+      "long": 88,
+      "grand": 549
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "3 x DNS"
+      }
+    ],
+    "currentPosition": 48,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 45,
+        "id": "14209",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 45,
+        "name": "Shaun Wilkinson",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 92.83333333333333,
+        "predictedFinalPoints": 557,
+        "grandTotal": 557,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 171,
+        "tieBreakPoints": 197
+      },
+      {
+        "position": 46,
+        "id": "293",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 46,
+        "name": "Jock Bolam",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 92.5,
+        "predictedFinalPoints": 555,
+        "grandTotal": 555,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 239,
+        "tieBreakPoints": 238
+      },
+      {
+        "position": 47,
+        "id": "3838",
+        "pointsDirection": -4,
+        "barPredictedFinalPosition": 47,
+        "name": "Gemma Hutchins",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 91.83333333333333,
+        "predictedFinalPoints": 551,
+        "grandTotal": 551,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 258,
+        "tieBreakPoints": 230
+      },
+      {
+        "position": 48,
+        "id": "708",
+        "pointsDirection": 3,
+        "barPredictedFinalPosition": 48,
+        "name": "Christopher Beaty",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 91.5,
+        "predictedFinalPoints": 549,
+        "grandTotal": 549,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 135,
+        "tieBreakPoints": 155
+      },
+      {
+        "position": 49,
+        "id": "686",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 49,
+        "name": "Sebastian Stockbridge",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 90.83333333333333,
+        "predictedFinalPoints": 545,
+        "grandTotal": 545,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 72,
+        "tieBreakPoints": 164
+      },
+      {
+        "position": 50,
+        "id": "113",
+        "pointsDirection": -3,
+        "barPredictedFinalPosition": 50,
+        "name": "Sara Cummings",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 540,
+        "grandTotal": 540,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 304,
+        "tieBreakPoints": 199
+      },
+      {
+        "position": 51,
+        "id": "1799",
+        "pointsDirection": -25,
+        "barPredictedFinalPosition": 51,
+        "name": "Carrie Brookes",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 540,
+        "grandTotal": 540,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 166,
+        "tieBreakPoints": 56
+      }
+    ]
+  },
+  "rbar": {
+    "short": [
+      {
+        "eventId": "17213",
+        "raceCategory": "short",
+        "name": "Cramlington CC (N&DCA Championship)",
+        "course": "M101",
+        "distance": 10,
+        "fee": 9,
+        "date": "19 May 2018",
+        "club": "Allen Valley Velo",
+        "position": "78",
+        "time": "0:23:21",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.70 Mph",
+        "bar": 67,
+        "barPosition": 54,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 114,
+        "rbarPosition": 7
+      },
+      {
+        "eventId": "17210",
+        "raceCategory": "short",
+        "name": "North Tyneside Riders CC",
+        "course": "M102B",
+        "distance": 10,
+        "fee": 9,
+        "date": "14 April 2018",
+        "club": "Allen Valley Velo",
+        "position": "63",
+        "time": "0:23:54",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.10 Mph",
+        "bar": 72,
+        "barPosition": 49,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17220",
+        "raceCategory": "medium",
+        "name": "Gosforth Road Club (BBAR)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 9,
+        "date": "08 July 2018",
+        "club": "Allen Valley Velo",
+        "position": "28",
+        "time": "1:06:30",
+        "standard": "",
+        "onStandard": "",
+        "speed": "22.56 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 116,
+        "rbarPosition": 5
+      },
+      {
+        "eventId": "17216",
+        "raceCategory": "medium",
+        "name": "Blaydon CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "03 June 2018",
+        "club": "Allen Valley Velo",
+        "position": "50",
+        "time": "0:46:10",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.39 Mph",
+        "bar": 80,
+        "barPosition": 41,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9
+      },
+      {
+        "eventId": "17224",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (N&DCA Championship)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 9,
+        "date": "17 June 2018",
+        "club": "Allen Valley Velo",
+        "position": "61",
+        "time": "1:05:12",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.01 Mph",
+        "bar": 68,
+        "barPosition": 53,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 111,
+        "rbarPosition": 10
+      }
+    ],
+    "long": [
+      {
+        "eventId": "17211",
+        "raceCategory": "long",
+        "name": "Derwentside CC (Lakes & Lancs Spoco)",
+        "course": "M40",
+        "distance": 40,
+        "fee": 10,
+        "date": "06 May 2018",
+        "club": "Allen Valley Velo",
+        "position": "55",
+        "time": "2:11:22",
+        "standard": "",
+        "onStandard": "",
+        "speed": "18.27 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 112,
+        "rbarPosition": 9
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 113,
+    "averagePointsPerMediumRace": 113,
+    "averagePointsPerLongRace": 112,
+    "averagePointsPerRace": 112.83333333333333,
+    "remainingShortPoints": 14,
+    "remainingMediumPoints": 21,
+    "remainingLongPoints": 8,
+    "remainingPoints": 43,
+    "predictedFinalPoints": 677,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 225
+    },
+    "tieBreak": {
+      "raced": 2,
+      "totalPoints": 226
+    },
+    "totals": {
+      "short": 226,
+      "medium": 339,
+      "long": 112,
+      "grand": 677
+    },
+    "predictedFinalPosition": 15,
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 RBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "6 x Top 10 RBAR"
+      },
+      {
+        "cssclass": "tag is-black",
+        "text": "3 x DNS"
+      }
+    ],
+    "currentPosition": 11,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "4064",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Mark Robertson",
+        "club": "Army Cycling Union",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 360
+      },
+      {
+        "position": 8,
+        "id": "1170",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 12,
+        "name": "Michael Todd",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 115.33333333333333,
+        "predictedFinalPoints": 692,
+        "grandTotal": 692,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 227,
+        "tieBreakPoints": 226
+      },
+      {
+        "position": 9,
+        "id": "18735",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 13,
+        "name": "James George Dunn",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 114.83333333333333,
+        "predictedFinalPoints": 689,
+        "grandTotal": 689,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 228,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 10,
+        "id": "2927",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 14,
+        "name": "gareth davies",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 114.16666666666667,
+        "predictedFinalPoints": 685,
+        "grandTotal": 685,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 329,
+        "tieBreakPoints": 225
+      },
+      {
+        "position": 11,
+        "id": "708",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 15,
+        "name": "Christopher Beaty",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 112.83333333333333,
+        "predictedFinalPoints": 677,
+        "grandTotal": 677,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 225,
+        "tieBreakPoints": 226
+      },
+      {
+        "position": 12,
+        "id": "5305",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 16,
+        "name": "ian gallon",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 112.66666666666667,
+        "predictedFinalPoints": 676,
+        "grandTotal": 676,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 114,
+        "tieBreakPoints": 332
+      },
+      {
+        "position": 13,
+        "id": "10722",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 20,
+        "name": "Jen McMahon",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 108.83333333333333,
+        "predictedFinalPoints": 653,
+        "grandTotal": 653,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 107,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 14,
+        "id": "11392",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 26,
+        "name": "Sheena Harrison",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 105.33333333333333,
+        "predictedFinalPoints": 632,
+        "grandTotal": 632,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 99
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17210",
+      "raceCategory": "short",
+      "name": "North Tyneside Riders CC",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 9,
+      "date": "14 April 2018",
+      "club": "Allen Valley Velo",
+      "position": "63",
+      "time": "0:23:54",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.10 Mph",
+      "bar": 72,
+      "barPosition": 49,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 112,
+      "rbarPosition": 9
+    },
+    {
+      "eventId": "17211",
+      "raceCategory": "long",
+      "name": "Derwentside CC (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 10,
+      "date": "06 May 2018",
+      "club": "Allen Valley Velo",
+      "position": "55",
+      "time": "2:11:22",
+      "standard": "",
+      "onStandard": "",
+      "speed": "18.27 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 112,
+      "rbarPosition": 9
+    },
+    {
+      "eventId": "17242",
+      "raceCategory": "short",
+      "name": "Tyne & Wear Fire Service CC (Entries Close 02/05/18)",
+      "course": "M12",
+      "distance": 12.6,
+      "fee": 9,
+      "date": "12 May 2018",
+      "club": "Allen Valley Velo",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17213",
+      "raceCategory": "short",
+      "name": "Cramlington CC (N&DCA Championship)",
+      "course": "M101",
+      "distance": 10,
+      "fee": 9,
+      "date": "19 May 2018",
+      "club": "Allen Valley Velo",
+      "position": "78",
+      "time": "0:23:21",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.70 Mph",
+      "bar": 67,
+      "barPosition": 54,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 114,
+      "rbarPosition": 7
+    },
+    {
+      "eventId": "17216",
+      "raceCategory": "medium",
+      "name": "Blaydon CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "03 June 2018",
+      "club": "Allen Valley Velo",
+      "position": "50",
+      "time": "0:46:10",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.39 Mph",
+      "bar": 80,
+      "barPosition": 41,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 112,
+      "rbarPosition": 9
+    },
+    {
+      "eventId": "17214",
+      "raceCategory": "medium",
+      "name": "Allen Valley Velo (Lakes & Lancs Spoco)(Entries Close 03/06/18)",
+      "course": "M24.8",
+      "distance": 24.8,
+      "fee": 9,
+      "date": "10 June 2018",
+      "club": "Allen Valley Velo",
+      "position": "25",
+      "time": "1:17:49",
+      "standard": "",
+      "onStandard": "",
+      "speed": "19.12 Mph",
+      "bar": 101,
+      "barPosition": 20,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 110,
+      "rbarPosition": 11
+    },
+    {
+      "eventId": "17224",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (N&DCA Championship)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 9,
+      "date": "17 June 2018",
+      "club": "Allen Valley Velo",
+      "position": "61",
+      "time": "1:05:12",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.01 Mph",
+      "bar": 68,
+      "barPosition": 53,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 111,
+      "rbarPosition": 10
+    },
+    {
+      "eventId": "17220",
+      "raceCategory": "medium",
+      "name": "Gosforth Road Club (BBAR)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 9,
+      "date": "08 July 2018",
+      "club": "Allen Valley Velo",
+      "position": "28",
+      "time": "1:06:30",
+      "standard": "",
+      "onStandard": "",
+      "speed": "22.56 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 116,
+      "rbarPosition": 5
+    },
+    {
+      "eventId": "17221",
+      "raceCategory": "short",
+      "name": "Barnesbury CC (Cheques To B Bayne)(90 Riders)",
+      "course": "M102B",
+      "distance": 10,
+      "fee": 9,
+      "date": "11 July 2018",
+      "club": "Allen Valley Velo",
+      "position": "39",
+      "time": "0:23:28",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.57 Mph",
+      "bar": 90,
+      "barPosition": 31,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17222",
+      "raceCategory": "short",
+      "name": "Blaydon CC",
+      "course": "M14",
+      "distance": 14,
+      "fee": 9,
+      "date": "15 July 2018",
+      "club": "Allen Valley Velo",
+      "position": "30",
+      "time": "0:42:28",
+      "standard": "",
+      "onStandard": "",
+      "speed": "19.78 Mph",
+      "bar": 93,
+      "barPosition": 28,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 107,
+      "rbarPosition": 14
+    },
+    {
+      "eventId": "17239",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 9,
+      "date": "22 July 2018",
+      "club": "Allen Valley Velo",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17236",
+      "raceCategory": "medium",
+      "name": "Cramlington CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "01 September 2018",
+      "club": "Allen Valley Velo",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17210",
+      "date": "14 April 2018",
+      "name": "M102B",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 0,
+        "grand": 72
+      },
+      "position": 49
+    },
+    {
+      "eventId": "17207",
+      "date": "22 April 2018",
+      "name": "M27",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 0,
+        "grand": 72
+      },
+      "position": 78
+    },
+    {
+      "eventId": "17209",
+      "date": "29 April 2018",
+      "name": "M1010B",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 0,
+        "grand": 72
+      },
+      "position": 98
+    },
+    {
+      "eventId": "17211",
+      "date": "06 May 2018",
+      "name": "M40",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 88,
+        "grand": 160
+      },
+      "position": 48
+    },
+    {
+      "eventId": "17242",
+      "date": "12 May 2018",
+      "name": "M12",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 88,
+        "grand": 160
+      },
+      "position": 61
+    },
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 72,
+        "medium": 0,
+        "long": 88,
+        "grand": 160
+      },
+      "position": 64
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 88,
+        "grand": 227
+      },
+      "position": 46
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 88,
+        "grand": 227
+      },
+      "position": 55
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 139,
+        "medium": 0,
+        "long": 88,
+        "grand": 227
+      },
+      "position": 60
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 139,
+        "medium": 80,
+        "long": 88,
+        "grand": 307
+      },
+      "position": 51
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 139,
+        "medium": 181,
+        "long": 88,
+        "grand": 408
+      },
+      "position": 25
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 139,
+        "medium": 249,
+        "long": 88,
+        "grand": 476
+      },
+      "position": 8
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 139,
+        "medium": 249,
+        "long": 88,
+        "grand": 476
+      },
+      "position": 8
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 139,
+        "medium": 249,
+        "long": 88,
+        "grand": 476
+      },
+      "position": 16
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 139,
+        "medium": 278,
+        "long": 88,
+        "grand": 505
+      },
+      "position": 22
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 162,
+        "medium": 278,
+        "long": 88,
+        "grand": 528
+      },
+      "position": 20
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 18
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 22
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 29
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 43
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 45
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 183,
+        "medium": 278,
+        "long": 88,
+        "grand": 549
+      },
+      "position": 48
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "17210",
+      "date": "14 April 2018",
+      "name": "M102B",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 9
+    },
+    {
+      "eventId": "17207",
+      "date": "22 April 2018",
+      "name": "M27",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 15
+    },
+    {
+      "eventId": "17209",
+      "date": "29 April 2018",
+      "name": "M1010B",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 17
+    },
+    {
+      "eventId": "17211",
+      "date": "06 May 2018",
+      "name": "M40",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 112,
+        "grand": 224
+      },
+      "position": 9
+    },
+    {
+      "eventId": "17242",
+      "date": "12 May 2018",
+      "name": "M12",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 112,
+        "grand": 224
+      },
+      "position": 10
+    },
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 112,
+        "grand": 224
+      },
+      "position": 10
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 226,
+        "medium": 0,
+        "long": 112,
+        "grand": 338
+      },
+      "position": 8
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 226,
+        "medium": 0,
+        "long": 112,
+        "grand": 338
+      },
+      "position": 9
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 226,
+        "medium": 0,
+        "long": 112,
+        "grand": 338
+      },
+      "position": 10
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 226,
+        "medium": 112,
+        "long": 112,
+        "grand": 450
+      },
+      "position": 7
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 226,
+        "medium": 222,
+        "long": 112,
+        "grand": 560
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 226,
+        "medium": 333,
+        "long": 112,
+        "grand": 671
+      },
+      "position": 2
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 226,
+        "medium": 333,
+        "long": 112,
+        "grand": 671
+      },
+      "position": 2
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 226,
+        "medium": 333,
+        "long": 112,
+        "grand": 671
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 3
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 5
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 10
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 11
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 226,
+        "medium": 339,
+        "long": 112,
+        "grand": 677
+      },
+      "position": 11
+    }
+  ]
+}

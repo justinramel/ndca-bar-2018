@@ -1,0 +1,834 @@
+{
+  "id": "8008",
+  "name": "Rachel Walmsley",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Tyneside Vagabonds CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "inLBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "35",
+        "time": "0:50:03",
+        "standard": "00:51:52",
+        "onStandard": "-00:01:49",
+        "speed": "21.58 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "lbar": 119,
+        "lbarPosition": 2,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17223",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "29 July 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "51",
+        "time": "0:51:27",
+        "standard": "00:51:52",
+        "onStandard": "-00:00:25",
+        "speed": "20.99 Mph",
+        "bar": 72,
+        "barPosition": 49,
+        "vbar": 93,
+        "vbarPosition": 28,
+        "lbar": 114,
+        "lbarPosition": 7,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 84.5,
+    "averagePointsPerMediumRace": 84.5,
+    "averagePointsPerLongRace": 84.5,
+    "averagePointsPerRace": 84.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 191,
+    "remainingLongPoints": 120,
+    "remainingPoints": 551,
+    "predictedFinalPoints": 169,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 169,
+      "long": 0,
+      "grand": 169
+    },
+    "tags": [],
+    "currentPosition": 146,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 143,
+        "id": "24723",
+        "pointsDirection": 0,
+        "name": "Graeme Simpson",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 88,
+        "predictedFinalPoints": 176,
+        "grandTotal": 176,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 144,
+        "id": "96",
+        "pointsDirection": 0,
+        "name": "Richard Exley",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 170,
+        "grandTotal": 170,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 145,
+        "id": "19567",
+        "pointsDirection": 0,
+        "name": "Francis Smith",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 84.5,
+        "predictedFinalPoints": 169,
+        "grandTotal": 169,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 146,
+        "id": "8008",
+        "pointsDirection": 0,
+        "name": "Rachel Walmsley",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 84.5,
+        "predictedFinalPoints": 169,
+        "grandTotal": 169,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 147,
+        "id": "8785",
+        "pointsDirection": 0,
+        "name": "Jamie Ruddell",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 83.5,
+        "predictedFinalPoints": 167,
+        "grandTotal": 167,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 77,
+        "tieBreakPoints": 77
+      },
+      {
+        "position": 148,
+        "id": "16197",
+        "pointsDirection": 0,
+        "name": "Christopher Thompson",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 165,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 84
+      },
+      {
+        "position": 149,
+        "id": "23093",
+        "pointsDirection": 0,
+        "name": "Adam Harrison",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 165,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 73,
+        "tieBreakPoints": 73
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "35",
+        "time": "0:50:03",
+        "standard": "00:51:52",
+        "onStandard": "-00:01:49",
+        "speed": "21.58 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "lbar": 119,
+        "lbarPosition": 2,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17223",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "29 July 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "51",
+        "time": "0:51:27",
+        "standard": "00:51:52",
+        "onStandard": "-00:00:25",
+        "speed": "20.99 Mph",
+        "bar": 72,
+        "barPosition": 49,
+        "vbar": 93,
+        "vbarPosition": 28,
+        "lbar": 114,
+        "lbarPosition": 7,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 101,
+    "averagePointsPerMediumRace": 101,
+    "averagePointsPerLongRace": 101,
+    "averagePointsPerRace": 101,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 158,
+    "remainingLongPoints": 120,
+    "remainingPoints": 518,
+    "predictedFinalPoints": 606,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 202,
+      "long": 0,
+      "grand": 202
+    },
+    "tags": [],
+    "currentPosition": 81,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 78,
+        "id": "20540",
+        "pointsDirection": 0,
+        "name": "Peter Phillipson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 102,
+        "predictedFinalPoints": 608,
+        "grandTotal": 204,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 79,
+        "id": "5655",
+        "pointsDirection": 0,
+        "name": "phil dunn",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 612,
+        "grandTotal": 202,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 104
+      },
+      {
+        "position": 80,
+        "id": "7461",
+        "pointsDirection": 0,
+        "name": "Robert Boak",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 602,
+        "grandTotal": 202,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 81,
+        "id": "8008",
+        "pointsDirection": 0,
+        "name": "Rachel Walmsley",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 101,
+        "predictedFinalPoints": 606,
+        "grandTotal": 202,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 82,
+        "id": "7050",
+        "pointsDirection": 0,
+        "name": "peter mcglynn",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 612,
+        "grandTotal": 201,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 83,
+        "id": "96",
+        "pointsDirection": 0,
+        "name": "Richard Exley",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 100.5,
+        "predictedFinalPoints": 592,
+        "grandTotal": 201,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 84,
+        "id": "6215",
+        "pointsDirection": 0,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 100,
+        "predictedFinalPoints": 596,
+        "grandTotal": 200,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "lbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "35",
+        "time": "0:50:03",
+        "standard": "00:51:52",
+        "onStandard": "-00:01:49",
+        "speed": "21.58 Mph",
+        "bar": 97,
+        "barPosition": 24,
+        "vbar": 109,
+        "vbarPosition": 12,
+        "lbar": 119,
+        "lbarPosition": 2,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17223",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "29 July 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "51",
+        "time": "0:51:27",
+        "standard": "00:51:52",
+        "onStandard": "-00:00:25",
+        "speed": "20.99 Mph",
+        "bar": 72,
+        "barPosition": 49,
+        "vbar": 93,
+        "vbarPosition": 28,
+        "lbar": 114,
+        "lbarPosition": 7,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 116.5,
+    "averagePointsPerMediumRace": 116.5,
+    "averagePointsPerLongRace": 116.5,
+    "averagePointsPerRace": 116.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 127,
+    "remainingLongPoints": 120,
+    "remainingPoints": 487,
+    "predictedFinalPoints": 699,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 233,
+      "long": 0,
+      "grand": 233
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x 2nd LBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 LBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x Top 10 LBAR"
+      }
+    ],
+    "currentPosition": 22,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "16184",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Gemma Frost",
+        "club": "Team Swift",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 19,
+        "id": "1908",
+        "pointsDirection": 0,
+        "name": "Fiona Burnie",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 240,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 20,
+        "id": "2184",
+        "pointsDirection": 0,
+        "name": "Bev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 118.5,
+        "predictedFinalPoints": 710,
+        "grandTotal": 237,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 21,
+        "id": "3419",
+        "pointsDirection": 0,
+        "name": "Teri Wishart",
+        "club": "GS Metro",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 234,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 117
+      },
+      {
+        "position": 22,
+        "id": "8008",
+        "pointsDirection": 0,
+        "name": "Rachel Walmsley",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 116.5,
+        "predictedFinalPoints": 699,
+        "grandTotal": 233,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 23,
+        "id": "7255",
+        "pointsDirection": 0,
+        "name": "Sandy Cheung",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 694,
+        "grandTotal": 230,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 24,
+        "id": "25670",
+        "pointsDirection": 0,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 680,
+        "grandTotal": 226,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 25,
+        "id": "2445",
+        "pointsDirection": 0,
+        "name": "Anna Turvey",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 120,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17223",
+      "raceCategory": "medium",
+      "name": "GS Metro",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "29 July 2018",
+      "club": "Tyneside Vagabonds CC",
+      "position": "51",
+      "time": "0:51:27",
+      "standard": "00:51:52",
+      "onStandard": "-00:00:25",
+      "speed": "20.99 Mph",
+      "bar": 72,
+      "barPosition": 49,
+      "vbar": 93,
+      "vbarPosition": 28,
+      "lbar": 114,
+      "lbarPosition": 7,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17236",
+      "raceCategory": "medium",
+      "name": "Cramlington CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "01 September 2018",
+      "club": "Tyneside Vagabonds CC",
+      "position": "35",
+      "time": "0:50:03",
+      "standard": "00:51:52",
+      "onStandard": "-00:01:49",
+      "speed": "21.58 Mph",
+      "bar": 97,
+      "barPosition": 24,
+      "vbar": 109,
+      "vbarPosition": 12,
+      "lbar": 119,
+      "lbarPosition": 2,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 72,
+        "long": 0,
+        "grand": 72
+      },
+      "position": 229
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 72,
+        "long": 0,
+        "grand": 72
+      },
+      "position": 230
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 169,
+        "long": 0,
+        "grand": 169
+      },
+      "position": 146
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 169,
+        "long": 0,
+        "grand": 169
+      },
+      "position": 146
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 93,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 137
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 93,
+        "long": 0,
+        "grand": 93
+      },
+      "position": 137
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 202,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 81
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 202,
+        "long": 0,
+        "grand": 202
+      },
+      "position": 81
+    }
+  ],
+  "lbarHistory": [
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 114,
+        "long": 0,
+        "grand": 114
+      },
+      "position": 28
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 114,
+        "long": 0,
+        "grand": 114
+      },
+      "position": 29
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 233,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 22
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 233,
+        "long": 0,
+        "grand": 233
+      },
+      "position": 22
+    }
+  ]
+}

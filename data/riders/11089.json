@@ -1,0 +1,768 @@
+{
+  "id": "11089",
+  "name": "Daniel O'Callaghan",
+  "sex": "Male",
+  "category": "Senior",
+  "club": "South Shields Velo Cycling Club",
+  "inBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "27",
+        "time": "0:45:29",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.74 Mph",
+        "bar": 103,
+        "barPosition": 18,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17216",
+        "raceCategory": "medium",
+        "name": "Blaydon CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "03 June 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "40",
+        "time": "0:45:02",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.98 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 116,
+        "rbarPosition": 5
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 2,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 95.5,
+    "averagePointsPerMediumRace": 95.5,
+    "averagePointsPerLongRace": 95.5,
+    "averagePointsPerRace": 95.5,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 169,
+    "remainingLongPoints": 120,
+    "remainingPoints": 529,
+    "predictedFinalPoints": 191,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 191,
+      "long": 0,
+      "grand": 191
+    },
+    "tags": [],
+    "currentPosition": 138,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 135,
+        "id": "21457",
+        "pointsDirection": 0,
+        "name": "Nicholas Weddle",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 97.5,
+        "predictedFinalPoints": 195,
+        "grandTotal": 195,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 136,
+        "id": "415",
+        "pointsDirection": 0,
+        "name": "Sam Dodd",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 64.33333333333333,
+        "predictedFinalPoints": 193,
+        "grandTotal": 193,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 58
+      },
+      {
+        "position": 137,
+        "id": "18680",
+        "pointsDirection": 0,
+        "name": "Matthew Sutcliffe",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 192,
+        "grandTotal": 192,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 138,
+        "id": "11089",
+        "pointsDirection": 0,
+        "name": "Daniel O'Callaghan",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 95.5,
+        "predictedFinalPoints": 191,
+        "grandTotal": 191,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 139,
+        "id": "6215",
+        "pointsDirection": 0,
+        "name": "Dean Madden",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 95.5,
+        "predictedFinalPoints": 191,
+        "grandTotal": 191,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 140,
+        "id": "80",
+        "pointsDirection": 0,
+        "name": "greg charlton",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 190,
+        "grandTotal": 190,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 99,
+        "tieBreakPoints": 99
+      },
+      {
+        "position": 141,
+        "id": "24505",
+        "pointsDirection": 0,
+        "name": "Frank Devlin",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 180,
+        "grandTotal": 180,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17216",
+        "raceCategory": "medium",
+        "name": "Blaydon CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "03 June 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "40",
+        "time": "0:45:02",
+        "standard": "",
+        "onStandard": "",
+        "speed": "23.98 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 116,
+        "rbarPosition": 5
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 116,
+    "averagePointsPerLongRace": 116,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 244,
+    "remainingLongPoints": 120,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 696,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 116,
+      "long": 0,
+      "grand": 116
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 RBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 RBAR"
+      }
+    ],
+    "currentPosition": 66,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "4064",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Mark Robertson",
+        "club": "Army Cycling Union",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 360
+      },
+      {
+        "position": 63,
+        "id": "18225",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 9,
+        "name": "David Symes",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 117
+      },
+      {
+        "position": 64,
+        "id": "17179",
+        "pointsDirection": 2,
+        "name": "Paul Burke",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 65,
+        "id": "6444",
+        "pointsDirection": 2,
+        "name": "Mark Tully",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 66,
+        "id": "11089",
+        "pointsDirection": 2,
+        "name": "Daniel O'Callaghan",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 67,
+        "id": "11311",
+        "pointsDirection": 2,
+        "name": "Graeme Wardale",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 115
+      },
+      {
+        "position": 68,
+        "id": "456",
+        "pointsDirection": 2,
+        "name": "David Donaldson",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 69,
+        "id": "17551",
+        "pointsDirection": 2,
+        "name": "Michael Aspey",
+        "club": "Northumbria Police C.C.",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17216",
+      "raceCategory": "medium",
+      "name": "Blaydon CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "03 June 2018",
+      "club": "South Shields Velo Cycling Club",
+      "position": "40",
+      "time": "0:45:02",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.98 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 116,
+      "rbarPosition": 5
+    },
+    {
+      "eventId": "17236",
+      "raceCategory": "medium",
+      "name": "Cramlington CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "01 September 2018",
+      "club": "South Shields Velo Cycling Club",
+      "position": "27",
+      "time": "0:45:29",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.74 Mph",
+      "bar": 103,
+      "barPosition": 18,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 152
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 160
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 168
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 180
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 184
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 189
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 192
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 195
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 195
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 196
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 88,
+        "long": 0,
+        "grand": 88
+      },
+      "position": 196
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 191,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 138
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 191,
+        "long": 0,
+        "grand": 191
+      },
+      "position": 138
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 45
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 49
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 49
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 52
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 54
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 54
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 55
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 61
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 62
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 63
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 63
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 64
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 116,
+        "long": 0,
+        "grand": 116
+      },
+      "position": 66
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "6599",
+  "name": "Mike Potter",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Scarborough Paragon CC",
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 0,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 0,
+    "averagePointsPerMediumRace": 0,
+    "averagePointsPerLongRace": 0,
+    "averagePointsPerRace": 0,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 720,
+    "predictedFinalPoints": 0,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 0,
+      "grand": 0
+    },
+    "tags": [
+      {
+        "cssclass": "tag is-black",
+        "text": "1 x DNS"
+      }
+    ],
+    "currentPosition": 487,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 484,
+        "id": "14978",
+        "pointsDirection": 0,
+        "name": "Kath Finn",
+        "club": "Kendal Cycle Club",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 485,
+        "id": "8894",
+        "pointsDirection": 0,
+        "name": "Andrew Wilson",
+        "club": "Hartlepool CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 486,
+        "id": "25222",
+        "pointsDirection": 0,
+        "name": "Michael Fisher",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 487,
+        "id": "6599",
+        "pointsDirection": 0,
+        "name": "Mike Potter",
+        "club": "Scarborough Paragon CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 488,
+        "id": "1114",
+        "pointsDirection": 0,
+        "name": "Richard Bickley",
+        "club": "Border City Whs CC",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 489,
+        "id": "24439",
+        "pointsDirection": 0,
+        "name": "Stacey Stump",
+        "club": "York Cycleworks",
+        "averagePointsPerRace": 0,
+        "predictedFinalPoints": 0,
+        "grandTotal": 0,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17240",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (N&DCA Championship) (BBAR)",
+      "course": "M100/10",
+      "distance": 100,
+      "fee": 12,
+      "date": "02 September 2018",
+      "club": "Scarborough Paragon CC",
+      "position": "DNS",
+      "time": "",
+      "standard": "",
+      "onStandard": "",
+      "speed": "",
+      "bar": 0,
+      "barPosition": 0,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ]
+}

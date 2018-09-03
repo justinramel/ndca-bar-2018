@@ -1,0 +1,631 @@
+{
+  "id": "1710",
+  "name": "Tania Tucker",
+  "sex": "Female",
+  "category": "Vet",
+  "club": "Tyneside Vagabonds CC",
+  "inBAR": true,
+  "inVBAR": true,
+  "inLBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "17240",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (N&DCA Championship) (BBAR)",
+        "course": "M100/10",
+        "distance": 100,
+        "fee": 12,
+        "date": "02 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "5:09:59",
+        "standard": "05:12:28",
+        "onStandard": "-00:02:29",
+        "speed": "19.36 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "lbar": 117,
+        "lbarPosition": 4,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 109,
+    "averagePointsPerLongRace": 109,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 11,
+    "remainingPoints": 611,
+    "predictedFinalPoints": 109,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 109
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 109,
+      "grand": 109
+    },
+    "tags": [],
+    "currentPosition": 173,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 170,
+        "id": "5283",
+        "pointsDirection": 0,
+        "name": "James O'reilly",
+        "club": "Blaydon CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 113,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 171,
+        "id": "21284",
+        "pointsDirection": 0,
+        "name": "lee cuthbertson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 112,
+        "grandTotal": 112,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 112
+      },
+      {
+        "position": 172,
+        "id": "1027",
+        "pointsDirection": 0,
+        "name": "Terry Wilkinson",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 109,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 173,
+        "id": "1710",
+        "pointsDirection": 0,
+        "name": "Tania Tucker",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 109,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 109,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 174,
+        "id": "11311",
+        "pointsDirection": 1,
+        "name": "Graeme Wardale",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 108,
+        "grandTotal": 108,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 108
+      },
+      {
+        "position": 175,
+        "id": "9864",
+        "pointsDirection": -42,
+        "name": "Claire Cook",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 108,
+        "grandTotal": 108,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 190,
+        "tieBreakPoints": 82
+      },
+      {
+        "position": 176,
+        "id": "1698",
+        "pointsDirection": 2,
+        "name": "Daniel Dixon",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 108,
+        "grandTotal": 108,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "17240",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (N&DCA Championship) (BBAR)",
+        "course": "M100/10",
+        "distance": 100,
+        "fee": 12,
+        "date": "02 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "5:09:59",
+        "standard": "05:12:28",
+        "onStandard": "-00:02:29",
+        "speed": "19.36 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "lbar": 117,
+        "lbarPosition": 4,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 116,
+    "averagePointsPerMediumRace": 116,
+    "averagePointsPerLongRace": 116,
+    "averagePointsPerRace": 116,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 4,
+    "remainingPoints": 604,
+    "predictedFinalPoints": 696,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 116
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 116,
+      "grand": 116
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 VBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 VBAR"
+      }
+    ],
+    "currentPosition": 96,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 93,
+        "id": "3648",
+        "pointsDirection": 0,
+        "name": "michael openshaw",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 120,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 94,
+        "id": "11311",
+        "pointsDirection": 0,
+        "name": "Graeme Wardale",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 117
+      },
+      {
+        "position": 95,
+        "id": "16233",
+        "pointsDirection": 0,
+        "name": "Mike Harris",
+        "club": "Northumbria Police C.C.",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 96,
+        "id": "1710",
+        "pointsDirection": 0,
+        "name": "Tania Tucker",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 116,
+        "predictedFinalPoints": 696,
+        "grandTotal": 116,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 116,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 97,
+        "id": "21585",
+        "pointsDirection": 1,
+        "name": "Paul Wass",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 114,
+        "predictedFinalPoints": 684,
+        "grandTotal": 114,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 114
+      },
+      {
+        "position": 98,
+        "id": "7068",
+        "pointsDirection": 1,
+        "name": "Chris Annable",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 114,
+        "predictedFinalPoints": 684,
+        "grandTotal": 114,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 99,
+        "id": "7755",
+        "pointsDirection": 1,
+        "name": "Paul Pickett",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 678,
+        "grandTotal": 113,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "lbar": {
+    "short": [],
+    "medium": [],
+    "long": [
+      {
+        "eventId": "17240",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (N&DCA Championship) (BBAR)",
+        "course": "M100/10",
+        "distance": 100,
+        "fee": 12,
+        "date": "02 September 2018",
+        "club": "Tyneside Vagabonds CC",
+        "position": "17",
+        "time": "5:09:59",
+        "standard": "05:12:28",
+        "onStandard": "-00:02:29",
+        "speed": "19.36 Mph",
+        "bar": 109,
+        "barPosition": 12,
+        "vbar": 116,
+        "vbarPosition": 5,
+        "lbar": 117,
+        "lbarPosition": 4,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 0,
+    "mediumCount": 0,
+    "longCount": 1,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 117,
+    "averagePointsPerMediumRace": 117,
+    "averagePointsPerLongRace": 117,
+    "averagePointsPerRace": 117,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 3,
+    "remainingPoints": 603,
+    "predictedFinalPoints": 702,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 117
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 0,
+      "long": 117,
+      "grand": 117
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 5 LBAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "1 x Top 10 LBAR"
+      }
+    ],
+    "currentPosition": 31,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "16184",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Gemma Frost",
+        "club": "Team Swift",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 28,
+        "id": "18717",
+        "pointsDirection": 0,
+        "name": "Vicky Gibbs",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 29,
+        "id": "7431",
+        "pointsDirection": 0,
+        "name": "claire jackson",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 30,
+        "id": "8203",
+        "pointsDirection": 0,
+        "name": "Christine Burns",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 31,
+        "id": "1710",
+        "pointsDirection": 0,
+        "name": "Tania Tucker",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 117,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 32,
+        "id": "21586",
+        "pointsDirection": 1,
+        "name": "Roisin Lally",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 690,
+        "grandTotal": 115,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 33,
+        "id": "21614",
+        "pointsDirection": 1,
+        "name": "Tina Howe",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 672,
+        "grandTotal": 112,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 34,
+        "id": "24922",
+        "pointsDirection": 1,
+        "name": "Helen Dickinson",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 112,
+        "predictedFinalPoints": 672,
+        "grandTotal": 112,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17240",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (N&DCA Championship) (BBAR)",
+      "course": "M100/10",
+      "distance": 100,
+      "fee": 12,
+      "date": "02 September 2018",
+      "club": "Tyneside Vagabonds CC",
+      "position": "17",
+      "time": "5:09:59",
+      "standard": "05:12:28",
+      "onStandard": "-00:02:29",
+      "speed": "19.36 Mph",
+      "bar": 109,
+      "barPosition": 12,
+      "vbar": 116,
+      "vbarPosition": 5,
+      "lbar": 117,
+      "lbarPosition": 4,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 109,
+        "grand": 109
+      },
+      "position": 173
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 116,
+        "grand": 116
+      },
+      "position": 96
+    }
+  ],
+  "lbarHistory": [
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 117,
+        "grand": 117
+      },
+      "position": 31
+    }
+  ]
+}

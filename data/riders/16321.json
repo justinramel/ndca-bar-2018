@@ -1,0 +1,588 @@
+{
+  "id": "16321",
+  "name": "Graeme Dawson",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "Gosforth RC",
+  "inBAR": true,
+  "inVBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17220",
+        "raceCategory": "medium",
+        "name": "Gosforth Road Club (BBAR)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 9,
+        "date": "08 July 2018",
+        "club": "Gosforth RC",
+        "position": "43",
+        "time": "1:12:53",
+        "standard": "01:10:21",
+        "onStandard": "00:02:32",
+        "speed": "20.58 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 95,
+        "vbarPosition": 26,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 85,
+    "averagePointsPerMediumRace": 85,
+    "averagePointsPerLongRace": 85,
+    "averagePointsPerRace": 85,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 275,
+    "remainingLongPoints": 120,
+    "remainingPoints": 635,
+    "predictedFinalPoints": 85,
+    "pointsDirection": 3,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 85,
+      "long": 0,
+      "grand": 85
+    },
+    "tags": [],
+    "currentPosition": 214,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 211,
+        "id": "1890",
+        "pointsDirection": 3,
+        "name": "Christian Roberts",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 85,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 85
+      },
+      {
+        "position": 212,
+        "id": "19625",
+        "pointsDirection": 3,
+        "name": "Patrick Hamilton",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 85,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 213,
+        "id": "12616",
+        "pointsDirection": 3,
+        "name": "Michael Woodhouse",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 85,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 214,
+        "id": "16321",
+        "pointsDirection": 3,
+        "name": "Graeme Dawson",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 85,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 215,
+        "id": "24801",
+        "pointsDirection": 3,
+        "name": "Mike Donnelly",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 85,
+        "predictedFinalPoints": 85,
+        "grandTotal": 85,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 216,
+        "id": "21013",
+        "pointsDirection": 3,
+        "name": "Gary Evans",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 84,
+        "predictedFinalPoints": 84,
+        "grandTotal": 84,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 217,
+        "id": "24922",
+        "pointsDirection": 3,
+        "name": "Helen Dickinson",
+        "club": "Alnwick Cycling Club",
+        "averagePointsPerRace": 84,
+        "predictedFinalPoints": 84,
+        "grandTotal": 84,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17220",
+        "raceCategory": "medium",
+        "name": "Gosforth Road Club (BBAR)",
+        "course": "M2511",
+        "distance": 25,
+        "fee": 9,
+        "date": "08 July 2018",
+        "club": "Gosforth RC",
+        "position": "43",
+        "time": "1:12:53",
+        "standard": "01:10:21",
+        "onStandard": "00:02:32",
+        "speed": "20.58 Mph",
+        "bar": 85,
+        "barPosition": 36,
+        "vbar": 95,
+        "vbarPosition": 26,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 95,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 95,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 265,
+    "remainingLongPoints": 120,
+    "remainingPoints": 625,
+    "predictedFinalPoints": 570,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 95,
+      "long": 0,
+      "grand": 95
+    },
+    "tags": [],
+    "currentPosition": 137,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 134,
+        "id": "22523",
+        "pointsDirection": 2,
+        "name": "Chris Judson",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 98,
+        "predictedFinalPoints": 588,
+        "grandTotal": 98,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 135,
+        "id": "18012",
+        "pointsDirection": 2,
+        "name": "Richard Marshall",
+        "club": "Cestria C.C.",
+        "averagePointsPerRace": 97,
+        "predictedFinalPoints": 582,
+        "grandTotal": 97,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 136,
+        "id": "6914",
+        "pointsDirection": 2,
+        "name": "Colin Oxberry",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 576,
+        "grandTotal": 96,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 137,
+        "id": "16321",
+        "pointsDirection": 2,
+        "name": "Graeme Dawson",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 570,
+        "grandTotal": 95,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 138,
+        "id": "8339",
+        "pointsDirection": 2,
+        "name": "James Allen",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 570,
+        "grandTotal": 95,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 139,
+        "id": "9079",
+        "pointsDirection": 2,
+        "name": "Neil Cranston",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 94,
+        "predictedFinalPoints": 564,
+        "grandTotal": 94,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 140,
+        "id": "5420",
+        "pointsDirection": 2,
+        "name": "Bob Parker",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 93
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17220",
+      "raceCategory": "medium",
+      "name": "Gosforth Road Club (BBAR)",
+      "course": "M2511",
+      "distance": 25,
+      "fee": 9,
+      "date": "08 July 2018",
+      "club": "Gosforth RC",
+      "position": "43",
+      "time": "1:12:53",
+      "standard": "01:10:21",
+      "onStandard": "00:02:32",
+      "speed": "20.58 Mph",
+      "bar": 85,
+      "barPosition": 36,
+      "vbar": 95,
+      "vbarPosition": 26,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 197
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 200
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 204
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 204
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 205
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 205
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 211
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 85,
+        "long": 0,
+        "grand": 85
+      },
+      "position": 214
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 124
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 128
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 131
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 131
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 132
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 132
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 135
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 95,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 137
+    }
+  ]
+}

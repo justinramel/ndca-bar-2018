@@ -1,0 +1,876 @@
+{
+  "id": "25670",
+  "name": "Claire Harlow",
+  "sex": "Female",
+  "category": "Senior",
+  "club": "North Tyneside Riders CC",
+  "inBAR": true,
+  "inLBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "0:51:08",
+        "standard": "",
+        "onStandard": "",
+        "speed": "16.43 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 112,
+        "lbarPosition": 9,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 95,
+        "rbarPosition": 26
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "45",
+        "time": "0:54:13",
+        "standard": "",
+        "onStandard": "",
+        "speed": "19.92 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 114,
+        "lbarPosition": 7,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 76,
+    "averagePointsPerMediumRace": 88,
+    "averagePointsPerLongRace": 82,
+    "averagePointsPerRace": 82,
+    "remainingShortPoints": 164,
+    "remainingMediumPoints": 272,
+    "remainingLongPoints": 120,
+    "remainingPoints": 556,
+    "predictedFinalPoints": 164,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 76,
+      "medium": 88,
+      "long": 0,
+      "grand": 164
+    },
+    "tags": [],
+    "currentPosition": 150,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 147,
+        "id": "8785",
+        "pointsDirection": 0,
+        "name": "Jamie Ruddell",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 83.5,
+        "predictedFinalPoints": 167,
+        "grandTotal": 167,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 77,
+        "tieBreakPoints": 77
+      },
+      {
+        "position": 148,
+        "id": "16197",
+        "pointsDirection": 0,
+        "name": "Christopher Thompson",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 165,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 84
+      },
+      {
+        "position": 149,
+        "id": "23093",
+        "pointsDirection": 0,
+        "name": "Adam Harrison",
+        "club": "Barnesbury CC",
+        "averagePointsPerRace": 82.5,
+        "predictedFinalPoints": 165,
+        "grandTotal": 165,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 73,
+        "tieBreakPoints": 73
+      },
+      {
+        "position": 150,
+        "id": "25670",
+        "pointsDirection": 0,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 82,
+        "predictedFinalPoints": 164,
+        "grandTotal": 164,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 151,
+        "id": "7050",
+        "pointsDirection": 0,
+        "name": "peter mcglynn",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 162,
+        "grandTotal": 162,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 74
+      },
+      {
+        "position": 152,
+        "id": "11274",
+        "pointsDirection": 0,
+        "name": "Craig Deacon",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 81,
+        "predictedFinalPoints": 162,
+        "grandTotal": 162,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 153,
+        "id": "5655",
+        "pointsDirection": 0,
+        "name": "phil dunn",
+        "club": "Wansbeck CC",
+        "averagePointsPerRace": 80,
+        "predictedFinalPoints": 160,
+        "grandTotal": 160,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 81
+      }
+    ]
+  },
+  "lbar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "0:51:08",
+        "standard": "",
+        "onStandard": "",
+        "speed": "16.43 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 112,
+        "lbarPosition": 9,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 95,
+        "rbarPosition": 26
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17236",
+        "raceCategory": "medium",
+        "name": "Cramlington CC",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "01 September 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "45",
+        "time": "0:54:13",
+        "standard": "",
+        "onStandard": "",
+        "speed": "19.92 Mph",
+        "bar": 88,
+        "barPosition": 33,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 114,
+        "lbarPosition": 7,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 2,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 112,
+    "averagePointsPerMediumRace": 114,
+    "averagePointsPerLongRace": 113,
+    "averagePointsPerRace": 113,
+    "remainingShortPoints": 128,
+    "remainingMediumPoints": 246,
+    "remainingLongPoints": 120,
+    "remainingPoints": 494,
+    "predictedFinalPoints": 680,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 112,
+      "medium": 114,
+      "long": 0,
+      "grand": 226
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x Top 10 LBAR"
+      }
+    ],
+    "currentPosition": 24,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "16184",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Gemma Frost",
+        "club": "Team Swift",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 21,
+        "id": "3419",
+        "pointsDirection": 0,
+        "name": "Teri Wishart",
+        "club": "GS Metro",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 234,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 117,
+        "tieBreakPoints": 117
+      },
+      {
+        "position": 22,
+        "id": "8008",
+        "pointsDirection": 0,
+        "name": "Rachel Walmsley",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 116.5,
+        "predictedFinalPoints": 699,
+        "grandTotal": 233,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 23,
+        "id": "7255",
+        "pointsDirection": 0,
+        "name": "Sandy Cheung",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 115,
+        "predictedFinalPoints": 694,
+        "grandTotal": 230,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 24,
+        "id": "25670",
+        "pointsDirection": 0,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 113,
+        "predictedFinalPoints": 680,
+        "grandTotal": 226,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 25,
+        "id": "2445",
+        "pointsDirection": 0,
+        "name": "Anna Turvey",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 120,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 26,
+        "id": "3653",
+        "pointsDirection": 0,
+        "name": "Miriam Jessett",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 119,
+        "predictedFinalPoints": 714,
+        "grandTotal": 119,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 119
+      },
+      {
+        "position": 27,
+        "id": "9864",
+        "pointsDirection": 0,
+        "name": "Claire Cook",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 118,
+        "predictedFinalPoints": 708,
+        "grandTotal": 118,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 234,
+        "tieBreakPoints": 118
+      }
+    ]
+  },
+  "rbar": {
+    "short": [
+      {
+        "eventId": "17222",
+        "raceCategory": "short",
+        "name": "Blaydon CC",
+        "course": "M14",
+        "distance": 14,
+        "fee": 9,
+        "date": "15 July 2018",
+        "club": "North Tyneside Riders CC",
+        "position": "47",
+        "time": "0:51:08",
+        "standard": "",
+        "onStandard": "",
+        "speed": "16.43 Mph",
+        "bar": 76,
+        "barPosition": 45,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 112,
+        "lbarPosition": 9,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 95,
+        "rbarPosition": 26
+      }
+    ],
+    "medium": [],
+    "long": [],
+    "shortCount": 1,
+    "mediumCount": 0,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 95,
+    "averagePointsPerMediumRace": 95,
+    "averagePointsPerLongRace": 95,
+    "averagePointsPerRace": 95,
+    "remainingShortPoints": 145,
+    "remainingMediumPoints": 360,
+    "remainingLongPoints": 120,
+    "remainingPoints": 625,
+    "predictedFinalPoints": 570,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 95,
+      "medium": 0,
+      "long": 0,
+      "grand": 95
+    },
+    "tags": [],
+    "currentPosition": 118,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "4064",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Mark Robertson",
+        "club": "Army Cycling Union",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 360
+      },
+      {
+        "position": 115,
+        "id": "12616",
+        "pointsDirection": 2,
+        "name": "Michael Woodhouse",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 97,
+        "predictedFinalPoints": 582,
+        "grandTotal": 97,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 116,
+        "id": "5420",
+        "pointsDirection": 2,
+        "name": "Bob Parker",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 96,
+        "predictedFinalPoints": 576,
+        "grandTotal": 96,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 96
+      },
+      {
+        "position": 117,
+        "id": "293",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 33,
+        "name": "Jock Bolam",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 570,
+        "grandTotal": 95,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 118,
+        "id": "25670",
+        "pointsDirection": 2,
+        "name": "Claire Harlow",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 95,
+        "predictedFinalPoints": 570,
+        "grandTotal": 95,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 119,
+        "id": "7431",
+        "pointsDirection": 2,
+        "name": "claire jackson",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 94,
+        "predictedFinalPoints": 564,
+        "grandTotal": 94,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 120,
+        "id": "25034",
+        "pointsDirection": 2,
+        "name": "Michael Stobbart",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 93,
+        "predictedFinalPoints": 558,
+        "grandTotal": 93,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 121,
+        "id": "22833",
+        "pointsDirection": 2,
+        "name": "Mark Elliott",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 92,
+        "predictedFinalPoints": 552,
+        "grandTotal": 92,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17222",
+      "raceCategory": "short",
+      "name": "Blaydon CC",
+      "course": "M14",
+      "distance": 14,
+      "fee": 9,
+      "date": "15 July 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "47",
+      "time": "0:51:08",
+      "standard": "",
+      "onStandard": "",
+      "speed": "16.43 Mph",
+      "bar": 76,
+      "barPosition": 45,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 112,
+      "lbarPosition": 9,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 95,
+      "rbarPosition": 26
+    },
+    {
+      "eventId": "17236",
+      "raceCategory": "medium",
+      "name": "Cramlington CC",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "01 September 2018",
+      "club": "North Tyneside Riders CC",
+      "position": "45",
+      "time": "0:54:13",
+      "standard": "",
+      "onStandard": "",
+      "speed": "19.92 Mph",
+      "bar": 88,
+      "barPosition": 33,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 114,
+      "lbarPosition": 7,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 222
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 222
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 224
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 76,
+        "medium": 0,
+        "long": 0,
+        "grand": 76
+      },
+      "position": 225
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 76,
+        "medium": 88,
+        "long": 0,
+        "grand": 164
+      },
+      "position": 150
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 76,
+        "medium": 88,
+        "long": 0,
+        "grand": 164
+      },
+      "position": 150
+    }
+  ],
+  "lbarHistory": [
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 30
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 30
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 31
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 112,
+        "medium": 0,
+        "long": 0,
+        "grand": 112
+      },
+      "position": 32
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 112,
+        "medium": 114,
+        "long": 0,
+        "grand": 226
+      },
+      "position": 24
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 112,
+        "medium": 114,
+        "long": 0,
+        "grand": 226
+      },
+      "position": 24
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 113
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 114
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 116
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 116
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 116
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 95,
+        "medium": 0,
+        "long": 0,
+        "grand": 95
+      },
+      "position": 118
+    }
+  ]
+}

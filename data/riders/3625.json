@@ -1,0 +1,729 @@
+{
+  "id": "3625",
+  "name": "Adam Wild",
+  "sex": "Male",
+  "category": "Espoir",
+  "club": "GS Metro",
+  "inBAR": true,
+  "bar": {
+    "short": [
+      {
+        "eventId": "17213",
+        "raceCategory": "short",
+        "name": "Cramlington CC (N&DCA Championship)",
+        "course": "M101",
+        "distance": 10,
+        "fee": 9,
+        "date": "19 May 2018",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:18:59",
+        "standard": "",
+        "onStandard": "",
+        "speed": "31.61 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17218",
+        "raceCategory": "short",
+        "name": "Cestria Cycling Club",
+        "course": "M9",
+        "distance": 9,
+        "fee": 9.5,
+        "date": "23 June 2018",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:19:47",
+        "standard": "",
+        "onStandard": "",
+        "speed": "27.30 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "medium": [
+      {
+        "eventId": "17224",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (N&DCA Championship)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 9,
+        "date": "17 June 2018",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:52:07",
+        "standard": "",
+        "onStandard": "",
+        "speed": "28.78 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17239",
+        "raceCategory": "medium",
+        "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+        "course": "M2510",
+        "distance": 25,
+        "fee": 9,
+        "date": "22 July 2018",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "0:50:41",
+        "standard": "",
+        "onStandard": "",
+        "speed": "29.60 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      },
+      {
+        "eventId": "17223",
+        "raceCategory": "medium",
+        "name": "GS Metro",
+        "course": "M18",
+        "distance": 18,
+        "fee": 9,
+        "date": "29 July 2018",
+        "club": "GS Metro",
+        "position": "2",
+        "time": "0:37:54",
+        "standard": "",
+        "onStandard": "",
+        "speed": "28.50 Mph",
+        "bar": 119,
+        "barPosition": 2,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "long": [
+      {
+        "eventId": "17212",
+        "raceCategory": "long",
+        "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+        "course": "M47",
+        "distance": 40,
+        "fee": 11,
+        "date": "13 May 2018",
+        "club": "GS Metro",
+        "position": "1",
+        "time": "1:35:12",
+        "standard": "",
+        "onStandard": "",
+        "speed": "25.21 Mph",
+        "bar": 120,
+        "barPosition": 1,
+        "vbar": 0,
+        "vbarPosition": 0,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 0,
+        "rbarPosition": 0
+      }
+    ],
+    "shortCount": 2,
+    "mediumCount": 3,
+    "longCount": 1,
+    "allCount": 6,
+    "complete": true,
+    "canComplete": true,
+    "averagePointsPerShortRace": 120,
+    "averagePointsPerMediumRace": 119.66666666666667,
+    "averagePointsPerLongRace": 120,
+    "averagePointsPerRace": 119.83333333333333,
+    "remainingShortPoints": 0,
+    "remainingMediumPoints": 1,
+    "remainingLongPoints": 0,
+    "remainingPoints": 1,
+    "predictedFinalPoints": 719,
+    "pointsDirection": 0,
+    "regionalChampionship": {
+      "raced": 2,
+      "totalPoints": 240
+    },
+    "tieBreak": {
+      "raced": 2,
+      "totalPoints": 239
+    },
+    "totals": {
+      "short": 240,
+      "medium": 359,
+      "long": 120,
+      "grand": 719
+    },
+    "tags": [
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "5 x 1st BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "2 x 2nd BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "7 x Top 5 BAR"
+      },
+      {
+        "cssclass": "tag has-background-warning",
+        "text": "7 x Top 10 BAR"
+      }
+    ],
+    "currentPosition": 1,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 2,
+        "id": "9761",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 2,
+        "name": "Dan Meggison",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.16666666666667,
+        "predictedFinalPoints": 715,
+        "grandTotal": 715,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 118,
+        "tieBreakPoints": 236
+      },
+      {
+        "position": 3,
+        "id": "317",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 3,
+        "name": "Phil Hall",
+        "club": "Breeze Bikes RT",
+        "averagePointsPerRace": 118.66666666666667,
+        "predictedFinalPoints": 712,
+        "grandTotal": 712,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 235,
+        "tieBreakPoints": 118
+      },
+      {
+        "position": 4,
+        "id": "18614",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 4,
+        "name": "Thomas Hutchinson",
+        "club": "Tyneside Vagabonds CC",
+        "averagePointsPerRace": 118.5,
+        "predictedFinalPoints": 711,
+        "grandTotal": 711,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 472,
+        "tieBreakPoints": 351
+      },
+      {
+        "position": 5,
+        "id": "8323",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 5,
+        "name": "lewis timmins",
+        "club": "Team Swift",
+        "averagePointsPerRace": 118.33333333333333,
+        "predictedFinalPoints": 710,
+        "grandTotal": 710,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 236,
+        "tieBreakPoints": 120
+      },
+      {
+        "position": 6,
+        "id": "6034",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 6,
+        "name": "Harry Walker",
+        "club": "Revolver Racing",
+        "averagePointsPerRace": 117.33333333333333,
+        "predictedFinalPoints": 704,
+        "grandTotal": 704,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 349,
+        "tieBreakPoints": 234
+      },
+      {
+        "position": 7,
+        "id": "3037",
+        "pointsDirection": -2,
+        "barPredictedFinalPosition": 7,
+        "name": "Nick Badcock",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 117,
+        "predictedFinalPoints": 702,
+        "grandTotal": 702,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 338,
+        "tieBreakPoints": 225
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17211",
+      "raceCategory": "long",
+      "name": "Derwentside CC (Lakes & Lancs Spoco)",
+      "course": "M40",
+      "distance": 40,
+      "fee": 10,
+      "date": "06 May 2018",
+      "club": "GS Metro",
+      "position": "2",
+      "time": "1:44:00",
+      "standard": "",
+      "onStandard": "",
+      "speed": "23.08 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17212",
+      "raceCategory": "long",
+      "name": "Tyneside Vagabonds CC (Lakes & Lancs Spoco)",
+      "course": "M47",
+      "distance": 40,
+      "fee": 11,
+      "date": "13 May 2018",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "1:35:12",
+      "standard": "",
+      "onStandard": "",
+      "speed": "25.21 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17213",
+      "raceCategory": "short",
+      "name": "Cramlington CC (N&DCA Championship)",
+      "course": "M101",
+      "distance": 10,
+      "fee": 9,
+      "date": "19 May 2018",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:18:59",
+      "standard": "",
+      "onStandard": "",
+      "speed": "31.61 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17224",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (N&DCA Championship)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 9,
+      "date": "17 June 2018",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:52:07",
+      "standard": "",
+      "onStandard": "",
+      "speed": "28.78 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17218",
+      "raceCategory": "short",
+      "name": "Cestria Cycling Club",
+      "course": "M9",
+      "distance": 9,
+      "fee": 9.5,
+      "date": "23 June 2018",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:19:47",
+      "standard": "",
+      "onStandard": "",
+      "speed": "27.30 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17239",
+      "raceCategory": "medium",
+      "name": "Barnesbury CC (Cheques To S Dyson) (BBAR)",
+      "course": "M2510",
+      "distance": 25,
+      "fee": 9,
+      "date": "22 July 2018",
+      "club": "GS Metro",
+      "position": "1",
+      "time": "0:50:41",
+      "standard": "",
+      "onStandard": "",
+      "speed": "29.60 Mph",
+      "bar": 120,
+      "barPosition": 1,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    },
+    {
+      "eventId": "17223",
+      "raceCategory": "medium",
+      "name": "GS Metro",
+      "course": "M18",
+      "distance": 18,
+      "fee": 9,
+      "date": "29 July 2018",
+      "club": "GS Metro",
+      "position": "2",
+      "time": "0:37:54",
+      "standard": "",
+      "onStandard": "",
+      "speed": "28.50 Mph",
+      "bar": 119,
+      "barPosition": 2,
+      "vbar": 0,
+      "vbarPosition": 0,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 0,
+      "rbarPosition": 0
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17211",
+      "date": "06 May 2018",
+      "name": "M40",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 119,
+        "grand": 119
+      },
+      "position": 56
+    },
+    {
+      "eventId": "17242",
+      "date": "12 May 2018",
+      "name": "M12",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 119,
+        "grand": 119
+      },
+      "position": 68
+    },
+    {
+      "eventId": "17212",
+      "date": "13 May 2018",
+      "name": "M47",
+      "points": {
+        "short": 0,
+        "medium": 0,
+        "long": 120,
+        "grand": 120
+      },
+      "position": 73
+    },
+    {
+      "eventId": "17213",
+      "date": "19 May 2018",
+      "name": "M101",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 36
+    },
+    {
+      "eventId": "17243",
+      "date": "27 May 2018",
+      "name": "M107",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 45
+    },
+    {
+      "eventId": "17215",
+      "date": "02 June 2018",
+      "name": "M13",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 47
+    },
+    {
+      "eventId": "17216",
+      "date": "03 June 2018",
+      "name": "M18",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 65
+    },
+    {
+      "eventId": "17214",
+      "date": "10 June 2018",
+      "name": "M24.8",
+      "points": {
+        "short": 120,
+        "medium": 0,
+        "long": 120,
+        "grand": 240
+      },
+      "position": 70
+    },
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 120,
+        "medium": 120,
+        "long": 120,
+        "grand": 360
+      },
+      "position": 52
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 240,
+        "medium": 120,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 24
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 240,
+        "medium": 120,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 35
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 240,
+        "medium": 120,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 44
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 240,
+        "medium": 120,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 49
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 240,
+        "medium": 120,
+        "long": 120,
+        "grand": 480
+      },
+      "position": 50
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 240,
+        "medium": 240,
+        "long": 120,
+        "grand": 600
+      },
+      "position": 36
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 240,
+        "medium": 359,
+        "long": 120,
+        "grand": 719
+      },
+      "position": 1
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 240,
+        "medium": 359,
+        "long": 120,
+        "grand": 719
+      },
+      "position": 1
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 240,
+        "medium": 359,
+        "long": 120,
+        "grand": 719
+      },
+      "position": 1
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 240,
+        "medium": 359,
+        "long": 120,
+        "grand": 719
+      },
+      "position": 1
+    }
+  ]
+}

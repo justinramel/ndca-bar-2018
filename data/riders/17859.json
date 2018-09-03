@@ -1,0 +1,975 @@
+{
+  "id": "17859",
+  "name": "Roy Cassap",
+  "sex": "Male",
+  "category": "Vet",
+  "club": "South Shields Velo Cycling Club",
+  "inBAR": true,
+  "inVBAR": true,
+  "inRBAR": true,
+  "bar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17224",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (N&DCA Championship)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 9,
+        "date": "17 June 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "69",
+        "time": "1:09:32",
+        "standard": "01:07:50",
+        "onStandard": "00:01:42",
+        "speed": "21.57 Mph",
+        "bar": 62,
+        "barPosition": 59,
+        "vbar": 84,
+        "vbarPosition": 37,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 109,
+        "rbarPosition": 12
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 62,
+    "averagePointsPerMediumRace": 62,
+    "averagePointsPerLongRace": 62,
+    "averagePointsPerRace": 62,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 298,
+    "remainingLongPoints": 120,
+    "remainingPoints": 658,
+    "predictedFinalPoints": 62,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 62
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 62,
+      "long": 0,
+      "grand": 62
+    },
+    "tags": [],
+    "currentPosition": 248,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "3625",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Adam Wild",
+        "club": "GS Metro",
+        "averagePointsPerRace": 119.83333333333333,
+        "predictedFinalPoints": 719,
+        "grandTotal": 719,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 240,
+        "tieBreakPoints": 239
+      },
+      {
+        "position": 245,
+        "id": "11470",
+        "pointsDirection": 2,
+        "name": "Gary Olive",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 65,
+        "predictedFinalPoints": 65,
+        "grandTotal": 65,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 246,
+        "id": "23503",
+        "pointsDirection": 2,
+        "name": "Terry Williamson",
+        "club": "Gosforth RC",
+        "averagePointsPerRace": 64,
+        "predictedFinalPoints": 64,
+        "grandTotal": 64,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 247,
+        "id": "5083",
+        "pointsDirection": 2,
+        "name": "Steven Turnbull",
+        "club": "Muckle Cycle Club",
+        "averagePointsPerRace": 63,
+        "predictedFinalPoints": 63,
+        "grandTotal": 63,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 248,
+        "id": "17859",
+        "pointsDirection": 2,
+        "name": "Roy Cassap",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 62,
+        "predictedFinalPoints": 62,
+        "grandTotal": 62,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 62,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 249,
+        "id": "3439",
+        "pointsDirection": 2,
+        "name": "Matt Ellis",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 61,
+        "predictedFinalPoints": 61,
+        "grandTotal": 61,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 250,
+        "id": "21720",
+        "pointsDirection": 2,
+        "name": "Grant Bezuidenhout",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 60,
+        "predictedFinalPoints": 60,
+        "grandTotal": 60,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 60,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 251,
+        "id": "23089",
+        "pointsDirection": 2,
+        "name": "Mark Campbell",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 59,
+        "predictedFinalPoints": 59,
+        "grandTotal": 59,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "vbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17224",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (N&DCA Championship)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 9,
+        "date": "17 June 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "69",
+        "time": "1:09:32",
+        "standard": "01:07:50",
+        "onStandard": "00:01:42",
+        "speed": "21.57 Mph",
+        "bar": 62,
+        "barPosition": 59,
+        "vbar": 84,
+        "vbarPosition": 37,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 109,
+        "rbarPosition": 12
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 84,
+    "averagePointsPerMediumRace": 84,
+    "averagePointsPerLongRace": 84,
+    "averagePointsPerRace": 84,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 276,
+    "remainingLongPoints": 120,
+    "remainingPoints": 636,
+    "predictedFinalPoints": 504,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 84
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 84,
+      "long": 0,
+      "grand": 84
+    },
+    "tags": [],
+    "currentPosition": 151,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "705",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Nev Martin",
+        "club": "GS Metro",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 360,
+        "tieBreakPoints": 240
+      },
+      {
+        "position": 148,
+        "id": "7543",
+        "pointsDirection": 2,
+        "name": "Paul Hollick",
+        "club": "Houghton CC",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 540,
+        "grandTotal": 90,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 149,
+        "id": "11813",
+        "pointsDirection": 2,
+        "name": "Rhiannon Robinson",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 90,
+        "predictedFinalPoints": 540,
+        "grandTotal": 90,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 150,
+        "id": "23089",
+        "pointsDirection": 2,
+        "name": "Mark Campbell",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 84,
+        "predictedFinalPoints": 504,
+        "grandTotal": 84,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 151,
+        "id": "17859",
+        "pointsDirection": 2,
+        "name": "Roy Cassap",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 84,
+        "predictedFinalPoints": 504,
+        "grandTotal": 84,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 84,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 152,
+        "id": "2880",
+        "pointsDirection": 2,
+        "name": "dennis fuller",
+        "club": "GS Metro",
+        "averagePointsPerRace": 83,
+        "predictedFinalPoints": 498,
+        "grandTotal": 83,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 83,
+        "tieBreakPoints": 83
+      },
+      {
+        "position": 153,
+        "id": "2734",
+        "pointsDirection": 2,
+        "name": "Lee Head",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 83,
+        "predictedFinalPoints": 498,
+        "grandTotal": 83,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 154,
+        "id": "19969",
+        "pointsDirection": 2,
+        "name": "Alan Younger",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 82,
+        "predictedFinalPoints": 492,
+        "grandTotal": 82,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      }
+    ]
+  },
+  "rbar": {
+    "short": [],
+    "medium": [
+      {
+        "eventId": "17224",
+        "raceCategory": "medium",
+        "name": "Sunderland Clarion (N&DCA Championship)",
+        "course": "M254",
+        "distance": 25,
+        "fee": 9,
+        "date": "17 June 2018",
+        "club": "South Shields Velo Cycling Club",
+        "position": "69",
+        "time": "1:09:32",
+        "standard": "01:07:50",
+        "onStandard": "00:01:42",
+        "speed": "21.57 Mph",
+        "bar": 62,
+        "barPosition": 59,
+        "vbar": 84,
+        "vbarPosition": 37,
+        "lbar": 0,
+        "lbarPosition": 0,
+        "jbar": 0,
+        "jbarPosition": 0,
+        "rbar": 109,
+        "rbarPosition": 12
+      }
+    ],
+    "long": [],
+    "shortCount": 0,
+    "mediumCount": 1,
+    "longCount": 0,
+    "allCount": 1,
+    "complete": false,
+    "canComplete": false,
+    "averagePointsPerShortRace": 109,
+    "averagePointsPerMediumRace": 109,
+    "averagePointsPerLongRace": 109,
+    "averagePointsPerRace": 109,
+    "remainingShortPoints": 240,
+    "remainingMediumPoints": 251,
+    "remainingLongPoints": 120,
+    "remainingPoints": 611,
+    "predictedFinalPoints": 654,
+    "pointsDirection": 2,
+    "regionalChampionship": {
+      "raced": 1,
+      "totalPoints": 109
+    },
+    "tieBreak": {
+      "raced": 0,
+      "totalPoints": 0
+    },
+    "totals": {
+      "short": 0,
+      "medium": 109,
+      "long": 0,
+      "grand": 109
+    },
+    "tags": [],
+    "currentPosition": 87,
+    "rivals": [
+      {
+        "position": 1,
+        "id": "4064",
+        "pointsDirection": 0,
+        "barPredictedFinalPosition": 1,
+        "name": "Mark Robertson",
+        "club": "Army Cycling Union",
+        "averagePointsPerRace": 120,
+        "predictedFinalPoints": 720,
+        "grandTotal": 720,
+        "complete": true,
+        "canComplete": true,
+        "regionalChampionshipPoints": 359,
+        "tieBreakPoints": 360
+      },
+      {
+        "position": 84,
+        "id": "18333",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 19,
+        "name": "Peter Stokoe",
+        "club": "Sunderland Clarion",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 654,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 85,
+        "id": "21586",
+        "pointsDirection": 2,
+        "name": "Roisin Lally",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 654,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 86,
+        "id": "7068",
+        "pointsDirection": 2,
+        "name": "Chris Annable",
+        "club": "Allen Valley Velo",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 654,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 87,
+        "id": "17859",
+        "pointsDirection": 2,
+        "name": "Roy Cassap",
+        "club": "South Shields Velo Cycling Club",
+        "averagePointsPerRace": 109,
+        "predictedFinalPoints": 654,
+        "grandTotal": 109,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 109,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 88,
+        "id": "11470",
+        "pointsDirection": 2,
+        "name": "Gary Olive",
+        "club": "North Tyneside Riders CC",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 648,
+        "grandTotal": 108,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 89,
+        "id": "1770",
+        "pointsDirection": 2,
+        "barPredictedFinalPosition": 21,
+        "name": "Brian Johnson",
+        "club": "Reifen Racing",
+        "averagePointsPerRace": 108,
+        "predictedFinalPoints": 648,
+        "grandTotal": 108,
+        "complete": false,
+        "canComplete": true,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 0
+      },
+      {
+        "position": 90,
+        "id": "24461",
+        "pointsDirection": 2,
+        "name": "Michael Lynch",
+        "club": "Derwentside CC",
+        "averagePointsPerRace": 107,
+        "predictedFinalPoints": 642,
+        "grandTotal": 107,
+        "complete": false,
+        "canComplete": false,
+        "regionalChampionshipPoints": 0,
+        "tieBreakPoints": 107
+      }
+    ]
+  },
+  "races": [
+    {
+      "eventId": "17224",
+      "raceCategory": "medium",
+      "name": "Sunderland Clarion (N&DCA Championship)",
+      "course": "M254",
+      "distance": 25,
+      "fee": 9,
+      "date": "17 June 2018",
+      "club": "South Shields Velo Cycling Club",
+      "position": "69",
+      "time": "1:09:32",
+      "standard": "01:07:50",
+      "onStandard": "00:01:42",
+      "speed": "21.57 Mph",
+      "bar": 62,
+      "barPosition": 59,
+      "vbar": 84,
+      "vbarPosition": 37,
+      "lbar": 0,
+      "lbarPosition": 0,
+      "jbar": 0,
+      "jbarPosition": 0,
+      "rbar": 109,
+      "rbarPosition": 12
+    }
+  ],
+  "barHistory": [
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 204
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 214
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 220
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 225
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 231
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 237
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 237
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 242
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 243
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 246
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 62,
+        "long": 0,
+        "grand": 62
+      },
+      "position": 248
+    }
+  ],
+  "vbarHistory": [
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 120
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 126
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 130
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 134
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 140
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 143
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 143
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 147
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 147
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 149
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 84,
+        "long": 0,
+        "grand": 84
+      },
+      "position": 151
+    }
+  ],
+  "rbarHistory": [
+    {
+      "eventId": "17224",
+      "date": "17 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 70
+    },
+    {
+      "eventId": "17218",
+      "date": "23 June 2018",
+      "name": "M9",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 73
+    },
+    {
+      "eventId": "17237",
+      "date": "24 June 2018",
+      "name": "M254",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 76
+    },
+    {
+      "eventId": "17220",
+      "date": "08 July 2018",
+      "name": "M2511",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 77
+    },
+    {
+      "eventId": "17221",
+      "date": "11 July 2018",
+      "name": "M102B",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 78
+    },
+    {
+      "eventId": "17222",
+      "date": "15 July 2018",
+      "name": "M14",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 81
+    },
+    {
+      "eventId": "17239",
+      "date": "22 July 2018",
+      "name": "M2510",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 82
+    },
+    {
+      "eventId": "17223",
+      "date": "29 July 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 84
+    },
+    {
+      "eventId": "17225",
+      "date": "05 August 2018",
+      "name": "M5010",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 84
+    },
+    {
+      "eventId": "17236",
+      "date": "01 September 2018",
+      "name": "M18",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 85
+    },
+    {
+      "eventId": "17240",
+      "date": "02 September 2018",
+      "name": "M100/10",
+      "points": {
+        "short": 0,
+        "medium": 109,
+        "long": 0,
+        "grand": 109
+      },
+      "position": 87
+    }
+  ]
+}
